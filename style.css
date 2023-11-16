@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.4rem 7%;
+}
+
+.navbar-nav {
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+    justify-content: center;
+    display: flex;
+}
+
+.a-1 {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.contact {
+    display: flex;
+    font-family: 'Bebas Neue', sans-serif;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.order-online {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.paragraf-1 {
+    position: absolute;
+    bottom: 9rem;
+    color: white;
+    margin-left: 8.5rem;
+}
+
+.profile-1 {
+    background-color: orange;
+}
+
+.martabak-1 {
+    position: absolute;
+    right: 3rem;
+    top: 10rem;
+    width: 25rem;
+    height: 25rem;
+}
